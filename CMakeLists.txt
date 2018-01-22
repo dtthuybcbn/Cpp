@@ -13,4 +13,7 @@ ENDMACRO()
 ### cmake -G "Visual Studio 14 2015 Win64"
 ### cmake --build . --config Release
 ###
-Add_project(hello)
+#Add_project(hello)
+Add_project(test3)
+Add_project(test4)
+Add_project(xor_linked_list_prob_6)
